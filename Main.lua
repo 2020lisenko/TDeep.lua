@@ -1,5 +1,5 @@
 local originalRepo = "https://raw.githubusercontent.com/deividcomsono/Obsidian/main/"
-local myRepo       = "https://raw.githubusercontent.com/2020lisenko/Deep.lua/refs/heads/main/"
+local myRepo       = "https://raw.githubusercontent.com/2020lisenko/TDeep.lua/refs/heads/main/"
 
 local Library      = loadstring(game:HttpGet(originalRepo .. "Library.lua"))()
 local ThemeManager = loadstring(game:HttpGet(originalRepo .. "addons/ThemeManager.lua"))()
